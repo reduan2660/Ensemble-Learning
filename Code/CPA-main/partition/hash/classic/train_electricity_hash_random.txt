@@ -1,0 +1,201 @@
+Support Vector Machine
+               precision    recall  f1-score   support
+
+           0     0.8957    0.2492    0.3900      3964
+           1     0.6655    0.9809    0.7930      6036
+
+    accuracy                         0.6909     10000
+   macro avg     0.7806    0.6151    0.5915     10000
+weighted avg     0.7568    0.6909    0.6332     10000
+
+Naive Bayes's Classifier
+               precision    recall  f1-score   support
+
+           0     0.4112    0.8653    0.5575      3964
+           1     0.6781    0.1864    0.2924      6036
+
+    accuracy                         0.4555     10000
+   macro avg     0.5447    0.5258    0.4249     10000
+weighted avg     0.5723    0.4555    0.3975     10000
+
+Logistic Regression
+               precision    recall  f1-score   support
+
+           0     0.4829    0.7725    0.5943      3964
+           1     0.7535    0.4568    0.5687      6036
+
+    accuracy                         0.5819     10000
+   macro avg     0.6182    0.6146    0.5815     10000
+weighted avg     0.6462    0.5819    0.5789     10000
+
+Support Vector Machine
+               precision    recall  f1-score   support
+
+           0     0.8403    0.2934    0.4349      3964
+           1     0.6749    0.9634    0.7937      6036
+
+    accuracy                         0.6978     10000
+   macro avg     0.7576    0.6284    0.6143     10000
+weighted avg     0.7405    0.6978    0.6515     10000
+
+Logistic Regression
+               precision    recall  f1-score   support
+
+           0     0.4419    0.7871    0.5660      3964
+           1     0.7128    0.3471    0.4669      6036
+
+    accuracy                         0.5215     10000
+   macro avg     0.5773    0.5671    0.5164     10000
+weighted avg     0.6054    0.5215    0.5061     10000
+
+Naive Bayes's Classifier
+               precision    recall  f1-score   support
+
+           0     0.4043    0.7762    0.5317      3964
+           1     0.6289    0.2490    0.3568      6036
+
+    accuracy                         0.4580     10000
+   macro avg     0.5166    0.5126    0.4442     10000
+weighted avg     0.5399    0.4580    0.4261     10000
+
+Naive Bayes's Classifier
+               precision    recall  f1-score   support
+
+           0     0.9744    0.0383    0.0738      3964
+           1     0.6128    0.9993    0.7597      6036
+
+    accuracy                         0.6184     10000
+   macro avg     0.7936    0.5188    0.4167     10000
+weighted avg     0.7561    0.6184    0.4878     10000
+
+Naive Bayes's Classifier
+               precision    recall  f1-score   support
+
+           0     0.5823    0.1143    0.1911      3964
+           1     0.6193    0.9462    0.7486      6036
+
+    accuracy                         0.6164     10000
+   macro avg     0.6008    0.5302    0.4698     10000
+weighted avg     0.6046    0.6164    0.5276     10000
+
+Naive Bayes's Classifier
+               precision    recall  f1-score   support
+
+           0     0.9852    0.0336    0.0649      3964
+           1     0.6117    0.9997    0.7589      6036
+
+    accuracy                         0.6167     10000
+   macro avg     0.7984    0.5166    0.4119     10000
+weighted avg     0.7597    0.6167    0.4838     10000
+
+Support Vector Machine
+               precision    recall  f1-score   support
+
+           0     0.7415    0.2967    0.4238      3964
+           1     0.6686    0.9321    0.7787      6036
+
+    accuracy                         0.6802     10000
+   macro avg     0.7051    0.6144    0.6012     10000
+weighted avg     0.6975    0.6802    0.6380     10000
+
+Logistic Regression
+               precision    recall  f1-score   support
+
+           0     0.4058    0.7790    0.5336      3964
+           1     0.6335    0.2508    0.3594      6036
+
+    accuracy                         0.4602     10000
+   macro avg     0.5196    0.5149    0.4465     10000
+weighted avg     0.5432    0.4602    0.4284     10000
+
+Naive Bayes's Classifier
+               precision    recall  f1-score   support
+
+           0     0.7282    0.0716    0.1305      3964
+           1     0.6171    0.9824    0.7580      6036
+
+    accuracy                         0.6214     10000
+   macro avg     0.6726    0.5270    0.4442     10000
+weighted avg     0.6611    0.6214    0.5093     10000
+
+Naive Bayes's Classifier
+               precision    recall  f1-score   support
+
+           0     0.9748    0.0391    0.0752      3964
+           1     0.6129    0.9993    0.7598      6036
+
+    accuracy                         0.6187     10000
+   macro avg     0.7939    0.5192    0.4175     10000
+weighted avg     0.7564    0.6187    0.4884     10000
+
+Naive Bayes's Classifier
+               precision    recall  f1-score   support
+
+           0     0.4025    0.7702    0.5287      3964
+           1     0.6226    0.2490    0.3557      6036
+
+    accuracy                         0.4556     10000
+   macro avg     0.5125    0.5096    0.4422     10000
+weighted avg     0.5353    0.4556    0.4243     10000
+
+Support Vector Machine
+               precision    recall  f1-score   support
+
+           0     0.9027    0.2550    0.3977      3964
+           1     0.6675    0.9819    0.7947      6036
+
+    accuracy                         0.6938     10000
+   macro avg     0.7851    0.6185    0.5962     10000
+weighted avg     0.7607    0.6938    0.6373     10000
+
+Naive Bayes's Classifier
+               precision    recall  f1-score   support
+
+           0     0.9880    0.0416    0.0799      3964
+           1     0.6136    0.9997    0.7605      6036
+
+    accuracy                         0.6199     10000
+   macro avg     0.8008    0.5206    0.4202     10000
+weighted avg     0.7621    0.6199    0.4907     10000
+
+Support Vector Machine
+               precision    recall  f1-score   support
+
+           0     0.7205    0.3829    0.5001      3964
+           1     0.6901    0.9024    0.7821      6036
+
+    accuracy                         0.6965     10000
+   macro avg     0.7053    0.6427    0.6411     10000
+weighted avg     0.7021    0.6965    0.6703     10000
+
+Support Vector Machine
+               precision    recall  f1-score   support
+
+           0     0.8515    0.2661    0.4055      3964
+           1     0.6680    0.9695    0.7910      6036
+
+    accuracy                         0.6907     10000
+   macro avg     0.7597    0.6178    0.5983     10000
+weighted avg     0.7407    0.6907    0.6382     10000
+
+Support Vector Machine
+               precision    recall  f1-score   support
+
+           0     0.8542    0.3075    0.4522      3964
+           1     0.6798    0.9655    0.7979      6036
+
+    accuracy                         0.7047     10000
+   macro avg     0.7670    0.6365    0.6250     10000
+weighted avg     0.7490    0.7047    0.6609     10000
+
+Logistic Regression
+               precision    recall  f1-score   support
+
+           0     0.4660    0.7750    0.5820      3964
+           1     0.7383    0.4168    0.5328      6036
+
+    accuracy                         0.5588     10000
+   macro avg     0.6021    0.5959    0.5574     10000
+weighted avg     0.6303    0.5588    0.5523     10000
+
+Ensemble acc: 0.7014

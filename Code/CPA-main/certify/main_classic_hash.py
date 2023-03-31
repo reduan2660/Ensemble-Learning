@@ -107,7 +107,7 @@ args = {
     'dataset': 'electricity',
     'num_partition': 20,
     'portion': 0.05,
-    'num_poison': 1,
+    'num_poison': 10,
     'model': 'svm',
     'num_classes': 2,
     'out': './out'

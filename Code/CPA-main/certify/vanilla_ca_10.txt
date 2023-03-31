@@ -1,0 +1,13 @@
+scale 10000
+preds_consider 20 1
+labels_consider 7427 [array([1, 1, 1, ..., 1, 1, 1], dtype=int64)]
+numvotes_consider 7427 1
+================num_poison: 10==================
+num_consider :  7427
+num_classifiers :  20
+num_trainsamples :  10000
+Set parameter WLSAccessID
+Set parameter WLSSecret
+Set parameter LicenseID to value 946167
+Academic license - for non-commercial use only - registered to mhasan1@tnstate.edu
+num_consider:7427, objective: 7357, gap: 0.0094

@@ -1,0 +1,9 @@
+================num_poison: 1==================
+num_consider :  60
+num_classifiers :  20
+Set parameter WLSAccessID
+Set parameter WLSSecret
+Set parameter LicenseID to value 946167
+Academic license - for non-commercial use only - registered to mhasan1@tnstate.edu
+[18]
+num_consider:60, objective: 43, gap: 0.2833

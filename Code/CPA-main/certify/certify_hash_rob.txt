@@ -1,4 +1,0 @@
-================num_poison: 1==================
-Restricted license - for non-production use only - expires 2024-10-28
-[19]
-num_consider:135, objective: 96, gap: 0.2889

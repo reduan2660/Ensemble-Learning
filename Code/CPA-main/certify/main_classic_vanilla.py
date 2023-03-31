@@ -82,11 +82,11 @@ def gurobi_search(num_consider, num_classifiers, num_trainsamples, num_classes, 
 
 class args: 
     
-    mode = 'ca'            # To certify robustness or to evaluate certified accuracy  # choices=['rob', 'ca']
+    mode = 'rob'            # To certify robustness or to evaluate certified accuracy  # choices=['rob', 'ca']
     dataset = 'electricity' # Test dataset. # choices=['bank', 'electricity']
     num_partition = 20      # Test number of partitions. # 
     portion = 0.05          # data for every partition # default=0.05 # float
-    num_poison = 1         # poison budget. # default=1 # int
+    num_poison = 20         # poison budget. # default=1 # int
     model = 'svm'           # classic trained models # choices=['bayes', 'svm', 'logistic']
     num_classes = 2         # number of classes. # default = 2
     # out = 2

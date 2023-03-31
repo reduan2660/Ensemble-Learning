@@ -103,11 +103,11 @@ def gurobi_search(num_consider, num_classifiers, num_classes, num_poison, portio
 
 
 args = {
-    'mode': 'rob',
+    'mode': 'ca',
     'dataset': 'electricity',
     'num_partition': 20,
     'portion': 0.05,
-    'num_poison': 10,
+    'num_poison': 15,
     'model': 'svm',
     'num_classes': 2,
     'out': './out'

@@ -6,8 +6,5 @@ numvotes_consider 10000 1
 num_consider :  10000
 num_classifiers :  20
 num_trainsamples :  10000
-Set parameter WLSAccessID
-Set parameter WLSSecret
-Set parameter LicenseID to value 946167
-Academic license - for non-commercial use only - registered to mhasan1@tnstate.edu
+
 num_consider:10000, objective: 9930, gap: 0.0070

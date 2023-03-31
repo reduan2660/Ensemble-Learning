@@ -2,7 +2,7 @@ scale 10000
 preds_consider 20 1
 labels_consider 7427 [array([1, 1, 1, ..., 1, 1, 1], dtype=int64)]
 numvotes_consider 7427 1
-================num_poison: 10==================
+================num_poison: 20==================
 num_consider :  7427
 num_classifiers :  20
 num_trainsamples :  10000

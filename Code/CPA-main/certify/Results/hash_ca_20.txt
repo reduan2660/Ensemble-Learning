@@ -1,0 +1,6 @@
+================num_poison: 15==================
+num_consider :  6973
+num_classifiers :  20
+
+[4, 5, 6, 9, 10, 11, 14, 15, 16, 17, 19]
+num_consider:6973, objective: 6973, gap: 0.0000

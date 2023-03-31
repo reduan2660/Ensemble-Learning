@@ -2,9 +2,9 @@ scale 10000
 preds_consider 20 1
 labels_consider 10000 [array([1, 1, 1, ..., 1, 1, 1], dtype=int64)]
 numvotes_consider 10000 1
-================num_poison: 1==================
+================num_poison: 20==================
 num_consider :  10000
 num_classifiers :  20
 num_trainsamples :  10000
 
-num_consider:10000, objective: 9994, gap: 0.0006
+num_consider:10000, objective: 9930, gap: 0.0070
